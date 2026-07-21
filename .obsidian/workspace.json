@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1df511747e85cd39",
+        "id": "d32ad00877fe9c0a",
         "type": "tabs",
         "children": [
           {
-            "id": "172cc7b462c6db15",
+            "id": "c810aa46bae8e21a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 1 函数与极限/1  函数.md",
+                "file": "Chapter 1 函数与极限/2  极限.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1  函数"
+              "title": "2  极限"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 1 函数与极限/1  函数.md",
+                "file": "Chapter 1 函数与极限/2  极限.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1  函数 的大纲"
+              "title": "2  极限 的大纲"
             }
           },
           {
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 327.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,29 +194,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "172cc7b462c6db15",
+  "active": "6ac1a18ff6f3607b",
   "lastOpenFiles": [
-    "resource/297e7fb261618ed3637b3a9fc58d9dba.jpg",
     "Chapter 1 函数与极限/1  函数.md",
-    "Chapter 0 预备知识/8  计数原理.md",
-    "Chapter 0 预备知识/7  不等式.md",
     "Chapter 1 函数与极限/2  极限.md",
-    "resource/Pasted image 20260715155213.png",
     "Chapter 0 预备知识/1  实数系基本运算.md",
-    "Pasted image 20260715123436.png",
-    "Pasted image 20260715110742.png",
-    "resource/Pasted image 20260715112359.png",
-    "resource/Pasted image 20260715104916.png",
-    "Chapter 0 预备知识/6  数列.md",
-    "resource/Pasted image 20260715103213.png",
     "Chapter 0 预备知识/3  函数.md",
-    "Chapter 0 预备知识/2  集合.md",
-    "Chapter 1 函数与极限",
-    "resource/Pasted image 20260714102516.png",
-    "resource/Pasted image 20260714100952.png",
     "Chapter 0 预备知识/4  特殊的函数.md",
+    "Chapter 0 预备知识/6  数列.md",
     "Chapter 0 预备知识/5  三角函数.md",
-    "resource/Pasted image 20260713171704.png",
+    "Chapter 0 预备知识/7  不等式.md",
+    "Chapter 0 预备知识/8  计数原理.md",
+    "resource/4a7ff9006e5a181cbba94c233a3bce1a.jpg",
+    "Chapter 0 预备知识/2  集合.md",
+    "resource/7f340b61124c5fccda606ebba9eb9855.jpg",
+    "resource/4ab74d865708e0ecbb9f0154daed81e4.jpg",
+    "resource/Pasted image 20260719162832.png",
+    "resource/edbf27248d6fbc5c57b143c0a24c99dd.jpg",
+    "resource/Pasted image 20260717161850.png",
+    "resource/Pasted image 20260720103206.png",
+    "resource/297e7fb261618ed3637b3a9fc58d9dba.jpg",
+    "resource/Pasted image 20260717113335.png",
+    "resource/Pasted image 20260716112720.png",
+    "Chapter 1 函数与极限",
     "图像.md",
     "resource",
     "Chapter 0 预备知识"
