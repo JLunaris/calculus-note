@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 1 函数与极限/2  极限.md",
+                "file": "Chapter 1 函数 极限 连续/3  连续.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2  极限"
+              "title": "3  连续"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 1 函数与极限/2  极限.md",
+                "file": "Chapter 1 函数 极限 连续/3  连续.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2  极限 的大纲"
+              "title": "3  连续 的大纲"
             }
           },
           {
@@ -196,27 +196,28 @@
   },
   "active": "6ac1a18ff6f3607b",
   "lastOpenFiles": [
-    "Chapter 1 函数与极限/1  函数.md",
-    "Chapter 1 函数与极限/2  极限.md",
-    "Chapter 0 预备知识/5  三角函数.md",
-    "Chapter 0 预备知识/7  不等式.md",
-    "Chapter 0 预备知识/4  特殊的函数.md",
+    "Chapter 1 函数 极限 连续/1  函数.md",
+    "Chapter 1 函数 极限 连续/3  连续.md",
+    "Chapter 1 函数 极限 连续/2  极限.md",
+    "resource/9192b5e87e1d876f2e0e641bec053599.jpg",
     "Chapter 0 预备知识/3  函数.md",
-    "Chapter 0 预备知识/1  实数系基本运算.md",
-    "resource/Pasted image 20260723183558.png",
-    "Pasted image 20260723183225.png",
-    "Chapter 0 预备知识/6  数列.md",
-    "Chapter 0 预备知识/8  计数原理.md",
-    "resource/4a7ff9006e5a181cbba94c233a3bce1a.jpg",
     "Chapter 0 预备知识/2  集合.md",
-    "resource/7f340b61124c5fccda606ebba9eb9855.jpg",
-    "resource/4ab74d865708e0ecbb9f0154daed81e4.jpg",
-    "resource/Pasted image 20260719162832.png",
-    "resource/edbf27248d6fbc5c57b143c0a24c99dd.jpg",
-    "resource/Pasted image 20260717161850.png",
-    "resource/Pasted image 20260720103206.png",
-    "resource/297e7fb261618ed3637b3a9fc58d9dba.jpg",
-    "Chapter 1 函数与极限",
+    "Chapter 0 预备知识/1  实数系基本运算.md",
+    "resource/820c69d914448f74064315f28b3210af.jpg",
+    "resource/1988e8eafa2332d94cdff0873bb08ca9.jpg",
+    "resource/f73fdff568570a800d5396601d0e452c.jpg",
+    "resource/dc8b93c6aa6076333035daff29ea6e08.jpg",
+    "resource/8d2f56725cf52d2edbf3f28c50e57030.jpg",
+    "resource/8325ab358b6f9a8f8592d56daed3943d.jpg",
+    "2f0e9a4ababa62594885a084f239db75.jpg",
+    "Chapter 0 预备知识/7  不等式.md",
+    "Chapter 0 预备知识/8  计数原理.md",
+    "Chapter 0 预备知识/5  三角函数.md",
+    "resource/f1df59d015c0e5b09dcbbda29b5a25c8.jpg",
+    "resource/Pasted image 20260725100912.png",
+    "Chapter 0 预备知识/6  数列.md",
+    "Chapter 0 预备知识/4  特殊的函数.md",
+    "Chapter 1 函数 极限 连续",
     "图像.md",
     "resource",
     "Chapter 0 预备知识"
