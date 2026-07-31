@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -162,7 +164,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "3  连续 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -199,23 +201,23 @@
     "Chapter 1 函数 极限 连续/1  函数.md",
     "Chapter 1 函数 极限 连续/3  连续.md",
     "Chapter 1 函数 极限 连续/2  极限.md",
-    "resource/9192b5e87e1d876f2e0e641bec053599.jpg",
-    "Chapter 0 预备知识/3  函数.md",
-    "Chapter 0 预备知识/2  集合.md",
-    "Chapter 0 预备知识/1  实数系基本运算.md",
-    "resource/820c69d914448f74064315f28b3210af.jpg",
-    "resource/1988e8eafa2332d94cdff0873bb08ca9.jpg",
-    "resource/f73fdff568570a800d5396601d0e452c.jpg",
-    "resource/dc8b93c6aa6076333035daff29ea6e08.jpg",
-    "resource/8d2f56725cf52d2edbf3f28c50e57030.jpg",
-    "resource/8325ab358b6f9a8f8592d56daed3943d.jpg",
-    "2f0e9a4ababa62594885a084f239db75.jpg",
-    "Chapter 0 预备知识/7  不等式.md",
-    "Chapter 0 预备知识/8  计数原理.md",
     "Chapter 0 预备知识/5  三角函数.md",
-    "resource/f1df59d015c0e5b09dcbbda29b5a25c8.jpg",
-    "resource/Pasted image 20260725100912.png",
+    "Chapter 0 预备知识/1  实数系基本运算.md",
+    "Chapter 0 预备知识/2  集合.md",
     "Chapter 0 预备知识/6  数列.md",
+    "Chapter 0 预备知识/7  不等式.md",
+    "resource/Pasted image 20260729171833.png",
+    "Pasted image 20260729171738.png",
+    "Pasted image 20260729165953.png",
+    "resource/Pasted image 20260729154011.png",
+    "resource/Pasted image 20260729153436.png",
+    "Pasted image 20260729153342.png",
+    "Pasted image 20260729153031.png",
+    "resource/Pasted image 20260729125827.png",
+    "resource/Pasted image 20260729121602.png",
+    "8314c01efd9c342c216e5e1e16828173.jpg",
+    "Chapter 0 预备知识/3  函数.md",
+    "Chapter 0 预备知识/8  计数原理.md",
     "Chapter 0 预备知识/4  特殊的函数.md",
     "Chapter 1 函数 极限 连续",
     "图像.md",
