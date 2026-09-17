@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 3 一元函数积分学/3  定积分的应用.md",
+                "file": "Chapter 3 一元函数积分学/2  定积分.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3  定积分的应用"
+              "title": "2  定积分"
             }
           }
         ]
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 3 一元函数积分学/3  定积分的应用.md",
+                "file": "Chapter 3 一元函数积分学/2  定积分.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -198,28 +198,29 @@
   },
   "active": "6ac1a18ff6f3607b",
   "lastOpenFiles": [
+    "resource/Pasted image 20260917185539.png",
+    "Chapter 2 一元函数微分学/4  导数的应用.md",
+    "Chapter 2 一元函数微分学/3  微分学基本定理.md",
+    "Chapter 3 一元函数积分学/2  定积分.md",
+    "Chapter 3 一元函数积分学/3  定积分的应用.md",
+    "Chapter 4 常微分方程",
+    "resource/Pasted image 20260917154546.png",
+    "resource/Pasted image 20260917153537.png",
     "resource/Pasted image 20260916113055.png",
     "Pasted image 20260916112849.png",
     "786cccbcca09ccd17f638a73c2674b5e.jpg",
-    "Chapter 3 一元函数积分学/2  定积分.md",
-    "Chapter 3 一元函数积分学/3  定积分的应用.md",
     "Chapter 1 函数 极限 连续/2  极限.md",
     "Chapter 3 一元函数积分学/1  不定积分.md",
     "4.md",
-    "Chapter 2 一元函数微分学/4  导数的应用.md",
     "resource/Pasted image 20260916101602.png",
     "resource/Pasted image 20260915180747.png",
     "resource/Pasted image 20260915175912.png",
     "resource/Pasted image 20260915121233.png",
     "Chapter 2 一元函数微分学/1  导数.md",
     "Chapter 2 一元函数微分学/2  微分.md",
-    "Chapter 2 一元函数微分学/3  微分学基本定理.md",
     "resource/Pasted image 20260914173257.png",
-    "resource/Pasted image 20260914153605.png",
-    "resource/Pasted image 20260914150200.png",
     "Chapter 1 函数 极限 连续/3  连续.md",
     "Chapter 1 函数 极限 连续/1  函数.md",
-    "resource/Pasted image 20260914120603.png",
     "Chapter 0 预备知识/7  不等式.md",
     "Chapter 0 预备知识/5  三角函数.md",
     "Chapter 0 预备知识/4  特殊的函数.md",
