@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9c14f8b00b8ac893",
+        "id": "a38ecae7cf364d91",
         "type": "tabs",
         "children": [
           {
-            "id": "d61977a343428110",
+            "id": "e220786ae66eeebb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 5 多元函数微分学/1  多元函数的极限与连续性.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1  多元函数的极限与连续性"
+              "title": "新标签页"
             }
           }
         ]
@@ -158,7 +154,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 5 多元函数微分学/1  多元函数的极限与连续性.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -196,35 +191,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ac1a18ff6f3607b",
+  "active": "e220786ae66eeebb",
   "lastOpenFiles": [
+    "Chapter 5 多元函数微分学/2  偏导数与全微分.md",
     "Chapter 1 函数 极限 连续/2  极限.md",
-    "Chapter 5 多元函数微分学/1  多元函数的极限与连续性.md",
+    "Chapter 5 多元函数微分学/1  多元函数的极限与连续.md",
+    "Chapter 1 函数 极限 连续/1  函数.md",
+    "Chapter 1 函数 极限 连续/3  连续.md",
+    "resource/Pasted image 20261005184139.png",
+    "resource/Pasted image 20261005182604.png",
+    "resource/Pasted image 20261005181823.png",
+    "resource/Pasted image 20261005181138.png",
+    "resource/Pasted image 20261005180731.png",
+    "resource/Pasted image 20261005172611.png",
+    "Chapter 2 一元函数微分学/3  微分学基本定理.md",
+    "Chapter 2 一元函数微分学/2  微分.md",
+    "Chapter 3 一元函数积分学/2  定积分.md",
+    "Chapter 2 一元函数微分学/1  导数.md",
+    "resource/Pasted image 20261005120232.png",
+    "resource/Pasted image 20261005113755.png",
+    "resource/Pasted image 20261005112433.png",
+    "d86ff9ef4962577ca3e2a1b5c037e02e.jpg",
     "Chapter 3 一元函数积分学/3  定积分的应用.md",
     "Chapter 4 常微分方程/1  常微分方程.md",
-    "Chapter 2 一元函数微分学/1  导数.md",
-    "Chapter 3 一元函数积分学/2  定积分.md",
     "Chapter 3 一元函数积分学/1  不定积分.md",
-    "Pasted image 20261004180819.png",
-    "resource/Pasted image 20261004181011.png",
-    "resource/Pasted image 20261004175423.png",
-    "Pasted image 20261004175236.png",
-    "Chapter 1 函数 极限 连续/1  函数.md",
-    "resource/Pasted image 20261004164606.png",
-    "resource/Pasted image 20261004164517.png",
-    "Pasted image 20261004164425.png",
     "Chapter 5 多元函数微分学",
     "Chapter 0 预备知识/1  实数系基本运算.md",
     "Chapter 0 预备知识/7  不等式.md",
     "Chapter 0 预备知识/6  数列.md",
     "Chapter 0 预备知识/8  计数原理.md",
-    "Chapter 1 函数 极限 连续/3  连续.md",
-    "Chapter 2 一元函数微分学/2  微分.md",
     "Chapter 2 一元函数微分学/4  导数的应用.md",
-    "Chapter 2 一元函数微分学/3  微分学基本定理.md",
-    "resource/Pasted image 20260919113619.png",
-    "Pasted image 20260919112931.png",
-    "resource/Pasted image 20260918162815.png",
     "Chapter 4 常微分方程",
     "4.md",
     "Chapter 0 预备知识/5  三角函数.md",
