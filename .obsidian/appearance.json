@@ -1,5 +1,6 @@
 {
   "baseFontSizeAction": false,
   "baseFontSize": 16,
-  "cssTheme": ""
+  "cssTheme": "",
+  "showRibbon": true
 }
